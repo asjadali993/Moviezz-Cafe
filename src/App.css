@@ -1,0 +1,12 @@
+body{
+    background: #77cff5;
+}
+
+
+.video-image{
+    height: 100%;
+    width: 100%;
+}
+.video-image:hover{
+    opacity: 70%;
+}
